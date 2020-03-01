@@ -8,3 +8,4 @@
 {% include_relative snake.md %}
 {% include_relative asteroids.md %}
 {% include_relative pong.md %}
+{% include_relative piano.md %}
