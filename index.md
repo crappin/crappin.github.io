@@ -10,3 +10,4 @@
 {% include_relative pong.md %}
 {% include_relative piano.md %}
 {% include_relative taptaptap.md %}
+{% include_relative polyhedra.md %}
