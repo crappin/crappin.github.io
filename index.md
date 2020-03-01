@@ -13,3 +13,4 @@
 {% include_relative games/polyhedra.md %}
 {% include_relative games/missile.md %}
 {% include_relative games/breakout.md %}
+{% include_relative games/tetris.md %}
