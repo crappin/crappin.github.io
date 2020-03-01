@@ -9,3 +9,4 @@
 {% include_relative asteroids.md %}
 {% include_relative pong.md %}
 {% include_relative piano.md %}
+{% include_relative taptaptap.md %}
