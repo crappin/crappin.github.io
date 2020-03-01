@@ -2,6 +2,7 @@
 # Life's not too short for this shit
 
 ### Open these in a new tab (Or bookmark them for later)
+### If that doesn't work, copy the link address and manually paste it: Warning, may make mobile devices freak out for a sec
 
 {% include_relative 2048.md %}
 {% include_relative snake.md %}
