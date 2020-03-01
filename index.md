@@ -6,3 +6,4 @@
 {% include_relative 2048.md %}
 {% include_relative snake.md %}
 {% include_relative asteroids.md %}
+{% include_relative pong.md %}
