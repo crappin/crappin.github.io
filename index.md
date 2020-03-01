@@ -4,10 +4,10 @@
 ### Open these in a new tab (Or bookmark them for later)
 ### If that doesn't work, copy the link address and manually paste it: Warning, may make mobile devices freak out for a sec
 
-{% include_relative 2048.md %}
-{% include_relative snake.md %}
-{% include_relative asteroids.md %}
-{% include_relative pong.md %}
-{% include_relative piano.md %}
-{% include_relative taptaptap.md %}
-{% include_relative polyhedra.md %}
+{% include_relative games/2048.md %}
+{% include_relative games/snake.md %}
+{% include_relative games/asteroids.md %}
+{% include_relative games/pong.md %}
+{% include_relative games/piano.md %}
+{% include_relative games/taptaptap.md %}
+{% include_relative games/polyhedra.md %}
