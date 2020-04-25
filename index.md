@@ -16,3 +16,4 @@
 {% include_relative games/tetris.md %}
 {% include_relative games/simonsays.md %}
 {% include_relative games/starfield.md %}
+{% include_relative games/anchorTest.md %}
