@@ -17,3 +17,4 @@
 {% include_relative games/simonsays.md %}
 {% include_relative games/starfield.md %}
 {% include_relative games/anchorTest.md %}
+{% include_relative games/Spiderverse-Font.md %}
